@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30869" started-at="2018-03-24T07:52:20Z" finished-at="2018-03-24T07:52:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30869" started-at="2018-03-24T07:52:20Z" finished-at="2018-03-24T07:52:51Z">
+      <class name="com.istar.Sample">
+        <test-method status="PASS" signature="TestCase1()[pri:0, instance:com.istar.Sample@1654521]" name="TestCase1" is-config="true" duration-ms="3417" started-at="2018-03-24T13:22:20Z" finished-at="2018-03-24T13:22:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+        <test-method status="PASS" signature="TestCase2()[pri:1, instance:com.istar.Sample@1654521]" name="TestCase2" duration-ms="9843" started-at="2018-03-24T13:22:24Z" finished-at="2018-03-24T13:22:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase2 -->
+        <test-method status="PASS" signature="TestCase3()[pri:2, instance:com.istar.Sample@1654521]" name="TestCase3" duration-ms="370" started-at="2018-03-24T13:22:34Z" finished-at="2018-03-24T13:22:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase3 -->
+        <test-method status="PASS" signature="TestCase4()[pri:3, instance:com.istar.Sample@1654521]" name="TestCase4" duration-ms="17187" started-at="2018-03-24T13:22:34Z" finished-at="2018-03-24T13:22:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase4 -->
+        <test-method status="PASS" signature="TestCase5()[pri:0, instance:com.istar.Sample@1654521]" name="TestCase5" is-config="true" duration-ms="1" started-at="2018-03-24T13:22:51Z" finished-at="2018-03-24T13:22:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase5 -->
+      </class> <!-- com.istar.Sample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
